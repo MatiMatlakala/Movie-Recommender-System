@@ -19,4 +19,22 @@ In our modern, technology-driven society, the importance of recommender systems 
 
 ## Results
 Streamlit App Demo:
+![Alt Text](https://github.com/MatiMatlakala/learning_projects/blob/2b3b9de68c718fa85be2c58cf83f745a4a0d64f8/Recommender%20System/app%20demo.mp4)
 
+Ratings Distribution:
+![Alt Text](https://github.com/MatiMatlakala/learning_projects/blob/2b3b9de68c718fa85be2c58cf83f745a4a0d64f8/Recommender%20System/ratings-distribution.png)
+
+Genre Distribution:
+![Alt Text](https://github.com/MatiMatlakala/learning_projects/blob/2b3b9de68c718fa85be2c58cf83f745a4a0d64f8/Recommender%20System/genre-distribution.png)
+
+Average Rating by Genre:
+![Alt Text](https://github.com/MatiMatlakala/learning_projects/blob/2b3b9de68c718fa85be2c58cf83f745a4a0d64f8/Recommender%20System/avg_rating_by_genre.png)
+
+## Conclusions and Recommendations
+
+## Acknowledgements
+I am grateful to my team members for their dedication, contribution and support:
+- Toka Ramakau
+- Jacinta Muindi
+- Ayodele Marcus
+- Oladimeji Akanni
