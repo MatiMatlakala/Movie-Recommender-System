@@ -22,7 +22,11 @@ In our modern, technology-driven society, the importance of recommender systems 
 Streamlit App Demo:
 
 
-https://github.com/MatiMatlakala/Movie-Recommender-System/assets/127293125/00189e72-ccff-4b6c-ac0c-e00ce8224e5b
+
+
+
+
+https://github.com/MatiMatlakala/Movie-Recommender-System/assets/127293125/f850d5b0-b48d-42e0-a1d5-3b5adcca0495
 
 
 
