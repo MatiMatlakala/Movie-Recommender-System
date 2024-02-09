@@ -9,6 +9,7 @@ In our modern, technology-driven society, the importance of recommender systems 
 - Get valuable insights from the overall data.
 - Create a machine learning model that can predict how a user will rate a movie.
 - Create a movie recommender system based on content or collaborative filtering.
+- Draw value from the system.
 
 ## Tools
 - Python
@@ -45,7 +46,10 @@ Average Rating by Genre:
 ![Alt Text](https://github.com/MatiMatlakala/learning_projects/blob/2b3b9de68c718fa85be2c58cf83f745a4a0d64f8/Recommender%20System/avg_rating_by_genre.png)
 
 
-## Conclusions and Recommendations
+## Value
+
+The movie recommendation system offers a solution that not only enhances user experiences, but also drives significant business value. The insights drawn will help in effective segmentation of users for targeted marketing campaigns, and, allow business to make informed decisions regarding content acquisition and production.
+
 
 
 ## Acknowledgements
